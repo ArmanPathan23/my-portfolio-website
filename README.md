@@ -113,10 +113,9 @@ Some of the projects showcased in this portfolio include:
 * 🎨 Interactive frontend experiments
 
 More projects are available on my portfolio website.
-
 ## 📸 Preview
 
-![Portfolio Preview](./public/preview.png)
+![Arman Pathan Portfolio Preview](./public/preview.png)
 
 > Replace `./public/preview.png` with your actual portfolio screenshot if you want to display one here.
 
