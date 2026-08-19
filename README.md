@@ -1,65 +1,137 @@
-# My Portfolio Website - Overview 🚀
+# 🚀 Arman's Portfolio Website
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+A modern, interactive personal portfolio website built to showcase my projects, skills, experience, and creative work.
 
----
+The website focuses on smooth animations, interactive 3D elements, and a clean modern interface.
 
-## ⚠️ Usage Notice
+## 🌐 Live Website
 
-This project is shared for learning purposes only.
+**Portfolio:** [Add your Vercel URL here]
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+## ✨ Features
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+* 🎨 Modern and responsive UI
+* ⚡ Smooth GSAP animations
+* 🖱️ Interactive scroll-based effects
+* 🌌 3D/WebGL elements
+* 📱 Fully responsive design
+* 💼 Projects and work showcase
+* 🧑‍💻 Skills and technology section
+* 📬 Contact section
+* 🚀 Optimized for production deployment
 
-Build your own version — don’t just copy.
+## 🛠️ Tech Stack
 
-— Moncy Yohannan
+* **React**
+* **TypeScript**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **GSAP**
+* **ScrollTrigger**
+* **ScrollSmoother**
+* **Three.js**
+* **WebGL**
+* **Vite**
 
----
+## 📂 Project Structure
 
-## 🛠️ Instructions
+```text
+Portfolio-Website/
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── utils/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+├── vite.config.ts
+└── README.md
+```
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+## 🚀 Getting Started
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+### 1. Clone the repository
 
----
+```bash
+git clone https://github.com/ArmanPathan23/my-portfolio-website.git
+```
 
-## ⚙️ Tech Stack
+### 2. Navigate to the project
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+```bash
+cd my-portfolio-website
+```
 
----
+### 3. Install dependencies
 
-## 🎨 Assets Usage
+```bash
+npm install
+```
 
-Some 3D assets included in this repository are free to use for learning purposes.
+### 4. Start the development server
 
-However:
+```bash
+npm run dev
+```
 
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
+The development server will start locally.
 
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+### 5. Create a production build
 
----
+```bash
+npm run build
+```
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+### 6. Preview the production build
 
----
+```bash
+npm run preview
+```
+
+## 🎯 Purpose
+
+This portfolio was created to showcase my development journey, technical skills, projects, and experience while experimenting with modern web technologies and interactive web experiences.
+
+## 👨‍💻 About Me
+
+I'm **Arman Pathan**, a B.Tech student specializing in **Artificial Intelligence and Machine Learning**, with an interest in web development, AI, creative technology, and building interactive digital experiences.
+
+I'm continuously learning and experimenting with new technologies to improve my development skills and build better projects.
+
+## 📌 Projects
+
+Some of the projects showcased in this portfolio include:
+
+* 🔐 Password Analyzer
+* 🛡️ URL Detection / Security Projects
+* 🤖 AI-based projects
+* 🌐 Web development projects
+* 📊 Data Science and Machine Learning projects
+* 🎨 Interactive frontend experiments
+
+More projects are available on my portfolio website.
+
+## 📸 Preview
+
+![Portfolio Preview](./public/preview.png)
+
+> Replace `./public/preview.png` with your actual portfolio screenshot if you want to display one here.
 
 ## 📄 License
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+This project is my personal portfolio project.
 
-See the LICENSE file for full details
+The source code is available for **learning and reference purposes**. Please do not copy the complete website, design, branding, personal content, or assets and present them as your own work.
 
+If you use portions of the code for learning, experimentation, or your own project, please provide appropriate attribution.
+
+## ⭐ Feedback
+
+If you find something interesting in this project or have suggestions for improvement, feel free to open an issue or connect with me.
+
+---
+
+### Built with ❤️ by Arman Pathan
